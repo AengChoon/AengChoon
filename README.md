@@ -1,5 +1,7 @@
+<!--
 ![](https://leetcard.jacoblin.cool/Aengchoon?ext=heatmap)
 [![GeeksForGeeks stats](https://geeks-for-geeks-stats-card.vercel.app/?username=aengchoon)](https://auth.geeksforgeeks.org/user/aengchoon/practice/)
+-->
 <!--
 **AengChoon/AengChoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
